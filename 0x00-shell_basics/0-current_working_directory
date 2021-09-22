@@ -1,2 +1,0 @@
- #!/bin/bash
- echo "$(cd "$(dirname "0x00-shell_basics")"; pwd -P)/$(basename "0-current_working_directory")"
