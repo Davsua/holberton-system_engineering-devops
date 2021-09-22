@@ -1,2 +1,2 @@
  #!/bin/bash
-/home/david/Documents/holberton-system_engineering-devops/0-current_working_directory
+ echo "$(cd "$(dirname "0x00-shell_basics")"; pwd -P)/$(basename "0-current_working_directory")"
