@@ -1,2 +1,3 @@
-david@david-HP-Laptop-14-ck0xxx:~/Documents/holberton-system_engineering-devops/0x00-shell_basics$ ls
+#!/bin/bash
+0x00-shell_basics$ ls
 0-current_working_directory  1-listit
