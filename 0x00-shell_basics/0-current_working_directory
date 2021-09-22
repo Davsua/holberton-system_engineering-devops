@@ -1,4 +1,4 @@
 #!/bin/bash
-get_abs_filename() {
-  echo "$(cd "$(dirname "0x00-shell_basics")" && pwd)/$(basename "0-current_working_directory")"
-}
+$chmod u+x # /home/david/Documents/holberton-system_engineering-devops/0x00-shell_basics
+$
+
